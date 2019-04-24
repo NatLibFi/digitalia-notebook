@@ -12,13 +12,14 @@ ALTO XML read and process demo
     </td><td>
 <img src="https://blogs.helsinki.fi/digitalia/files/2018/10/fi_EU_rgb_90p.jpg" style="height:100px;width:100%">
     </td><td>
-<img src="https://blogs.helsinki.fi/digitalia/files/2015/10/digitalia_pien_512.png" style="width:30%;">
+<img src="https://blogs.helsinki.fi/digitalia/files/2019/01/digitalia_pien_90h.png" style="">
 </td></td></tr></table>
 
 ## Prerequirements
 
 * python   
 * jupyter-notebook
+* nbTranslate  (optional, only couple of first items have translations)
 
 
 ## Local usage
