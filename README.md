@@ -32,4 +32,11 @@ Generating other formats
 ``` jupyter nbconvert --to html --template full digidata_mk.ipynb ```
 
 
+###  Experimental
+
+different language versions of the notebook:
+
+``` jupyter nbconvert --to notebook --NotebookLangExporter.language=en digidata_mk.ipynb ```
+
+
 
