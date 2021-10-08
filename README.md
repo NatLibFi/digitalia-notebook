@@ -2,8 +2,11 @@
 
 ## National Library of Finland
 
-ALTO XML read and process demo
+ALTO XML read and process demo.
 
+Updated version of notebook is available from digidata_using_api.en.ipynb, digidata_using_api.fi.ipynb and digidata_using_api.ipynb files.
+Updates to the notebook enable data download using API and contains also other improvements.
+Updates to the notebook were implemented during Digital Open Memory-project.
 
 ## Acknowledgments / Kiitokset
 
