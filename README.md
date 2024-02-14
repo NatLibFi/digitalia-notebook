@@ -10,6 +10,11 @@ Updated version of notebook is available from digidata_using_api.en.ipynb, digid
 Updates to the notebook enable data download using API and contains also other improvements.
 Updates to the notebook were implemented during Digital Open Memory-project.
 
+Clippings text mining examples.
+
+The Latest updated version of clippings download using notebook is available from digidata_clippings_using_api.en.ipynb and digidata_clippings_using_api.fi.ipynb files.
+Updates to the notebook enable clippings download using API and contain also other clippings related changes.
+
 ## Acknowledgments / Kiitokset
 
 <table><tr><td>
