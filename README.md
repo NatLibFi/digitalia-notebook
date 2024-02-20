@@ -34,7 +34,7 @@ Updates to the notebook enable clippings download using API and contain also oth
 
 ## Local usage
 
-```jupyter-notebook``` command in the directory where this git repository has been downloaded.
+```jupyter notebook``` command in the directory where this git repository has been downloaded.
 
 
 Generating other formats
